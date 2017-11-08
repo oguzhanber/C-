@@ -8,7 +8,7 @@ namespace Kalitim2
     class Kisi
     {
         protected string sgk = "444-55-6666";
-        protected string ad = "Tekin Ahmet";
+        protected string ad = "Oğuz BERBER";
 
         public virtual void BilgiAl()
         {
