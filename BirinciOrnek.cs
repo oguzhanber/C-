@@ -7,8 +7,8 @@ namespace omer{
    		static void Main(String[] args)
    		{
    			string ad, soyad ; 
-   			ad = "Ömer"; 
-   			soyad = "SEVİNÇ";
+   			ad = "Oğuz"; 
+   			soyad = "BERBER";
 
    			Console.WriteLine(ad + " " + soyad); 
 
